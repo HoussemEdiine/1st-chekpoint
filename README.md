@@ -1,2 +1,2 @@
-# 1st-chekpoint
+#gomycode
 1st chekpoint gomycode
