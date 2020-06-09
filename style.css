@@ -13,13 +13,13 @@ body{
     }
     #footer{
    
-        margin: auto;
+        margin:550px;
         padding: auto;
         display: flex;
         justify-content: space-around;
         align-items: center;
-        max-height:2cm;
-        background-color:lightsalmon;
+        max-height:1cm;
+        
     
     }
     .container{
